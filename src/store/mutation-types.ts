@@ -1,0 +1,12 @@
+export const TOGGLE_SIDEBAR = 'TOGGLE_SIDEBAR'
+export const CLOSE_SIDEBAR = 'CLOSE_SIDEBAR'
+
+export const ADD_VISITED_VIEWS = 'ADD_VISITED_VIEWS'
+export const DEL_VISITED_VIEWS = 'DEL_VISITED_VIEWS'
+export const DEL_OTHERS_VIEWS = 'DEL_OTHERS_VIEWS'
+export const DEL_ALL_VIEWS = 'DEL_ALL_VIEWS'
+
+export const ADD_ERROR_LOG = 'ADD_ERROR_LOG'
+export const SET_ROUTERS = 'SET_ROUTERS'
+
+export const TEST = 'TEST'

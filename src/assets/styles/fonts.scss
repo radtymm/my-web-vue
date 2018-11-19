@@ -1,0 +1,28 @@
+/** 图标字体 ***/
+/* http://www.iconfont.cn/
+@font-face {
+  font-family: "ui-icon";
+  src: url('../../assets/fonts/iconfont.eot');
+  src: url('../../assets/fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('../../assets/fonts/iconfont.woff') format('woff'),
+  url('../../assets/fonts/iconfont.ttf') format('truetype'),
+  url('../../assets/fonts/iconfont.svg#iconfont') format('svg');
+}
+*/
+
+@font-face {
+  font-family: 'iconfont';  /* project id 572904 */
+  src: url('//at.alicdn.com/t/font_572904_wp7wvsi65op.eot');
+  src: url('//at.alicdn.com/t/font_572904_wp7wvsi65op.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_572904_wp7wvsi65op.woff') format('woff'),
+  url('//at.alicdn.com/t/font_572904_wp7wvsi65op.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_572904_wp7wvsi65op.svg#iconfont') format('svg');
+}
+
+.ui-icon {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
